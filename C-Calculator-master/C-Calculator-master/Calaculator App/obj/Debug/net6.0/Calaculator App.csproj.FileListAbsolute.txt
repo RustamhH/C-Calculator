@@ -1,0 +1,30 @@
+D:\c#\Calaculator App\Calaculator App\bin\Debug\net6.0\Calaculator App.exe
+D:\c#\Calaculator App\Calaculator App\bin\Debug\net6.0\Calaculator App.deps.json
+D:\c#\Calaculator App\Calaculator App\bin\Debug\net6.0\Calaculator App.runtimeconfig.json
+D:\c#\Calaculator App\Calaculator App\bin\Debug\net6.0\Calaculator App.dll
+D:\c#\Calaculator App\Calaculator App\bin\Debug\net6.0\Calaculator App.pdb
+D:\c#\Calaculator App\Calaculator App\obj\Debug\net6.0\Calaculator App.csproj.AssemblyReference.cache
+D:\c#\Calaculator App\Calaculator App\obj\Debug\net6.0\Calaculator App.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\Calaculator App\Calaculator App\obj\Debug\net6.0\Calaculator App.AssemblyInfoInputs.cache
+D:\c#\Calaculator App\Calaculator App\obj\Debug\net6.0\Calaculator App.AssemblyInfo.cs
+D:\c#\Calaculator App\Calaculator App\obj\Debug\net6.0\Calaculator App.csproj.CoreCompileInputs.cache
+D:\c#\Calaculator App\Calaculator App\obj\Debug\net6.0\Calaculator App.dll
+D:\c#\Calaculator App\Calaculator App\obj\Debug\net6.0\refint\Calaculator App.dll
+D:\c#\Calaculator App\Calaculator App\obj\Debug\net6.0\Calaculator App.pdb
+D:\c#\Calaculator App\Calaculator App\obj\Debug\net6.0\Calaculator App.genruntimeconfig.cache
+D:\c#\Calaculator App\Calaculator App\obj\Debug\net6.0\ref\Calaculator App.dll
+C:\Users\Hesen_zc39\Downloads\C-Calculator-master\C-Calculator-master\Calaculator App\bin\Debug\net6.0\Calaculator App.exe
+C:\Users\Hesen_zc39\Downloads\C-Calculator-master\C-Calculator-master\Calaculator App\bin\Debug\net6.0\Calaculator App.deps.json
+C:\Users\Hesen_zc39\Downloads\C-Calculator-master\C-Calculator-master\Calaculator App\bin\Debug\net6.0\Calaculator App.runtimeconfig.json
+C:\Users\Hesen_zc39\Downloads\C-Calculator-master\C-Calculator-master\Calaculator App\bin\Debug\net6.0\Calaculator App.dll
+C:\Users\Hesen_zc39\Downloads\C-Calculator-master\C-Calculator-master\Calaculator App\bin\Debug\net6.0\Calaculator App.pdb
+C:\Users\Hesen_zc39\Downloads\C-Calculator-master\C-Calculator-master\Calaculator App\obj\Debug\net6.0\Calaculator App.csproj.AssemblyReference.cache
+C:\Users\Hesen_zc39\Downloads\C-Calculator-master\C-Calculator-master\Calaculator App\obj\Debug\net6.0\Calaculator App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hesen_zc39\Downloads\C-Calculator-master\C-Calculator-master\Calaculator App\obj\Debug\net6.0\Calaculator App.AssemblyInfoInputs.cache
+C:\Users\Hesen_zc39\Downloads\C-Calculator-master\C-Calculator-master\Calaculator App\obj\Debug\net6.0\Calaculator App.AssemblyInfo.cs
+C:\Users\Hesen_zc39\Downloads\C-Calculator-master\C-Calculator-master\Calaculator App\obj\Debug\net6.0\Calaculator App.csproj.CoreCompileInputs.cache
+C:\Users\Hesen_zc39\Downloads\C-Calculator-master\C-Calculator-master\Calaculator App\obj\Debug\net6.0\Calaculator App.dll
+C:\Users\Hesen_zc39\Downloads\C-Calculator-master\C-Calculator-master\Calaculator App\obj\Debug\net6.0\refint\Calaculator App.dll
+C:\Users\Hesen_zc39\Downloads\C-Calculator-master\C-Calculator-master\Calaculator App\obj\Debug\net6.0\Calaculator App.pdb
+C:\Users\Hesen_zc39\Downloads\C-Calculator-master\C-Calculator-master\Calaculator App\obj\Debug\net6.0\Calaculator App.genruntimeconfig.cache
+C:\Users\Hesen_zc39\Downloads\C-Calculator-master\C-Calculator-master\Calaculator App\obj\Debug\net6.0\ref\Calaculator App.dll
